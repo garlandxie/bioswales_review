@@ -1,0 +1,941 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU ZAZO, C
+   GOY, JL
+   SOMOZA, L
+   DABRIO, CJ
+   BELLUOMINI, G
+   IMPROTA, S
+   LARIO, J
+   BARDAJI, T
+   SILVA, PG
+AF ZAZO, C
+   GOY, JL
+   SOMOZA, L
+   DABRIO, CJ
+   BELLUOMINI, G
+   IMPROTA, S
+   LARIO, J
+   BARDAJI, T
+   SILVA, PG
+TI HOLOCENE SEQUENCE OF SEA-LEVEL FLUCTUATIONS IN RELATION TO CLIMATIC
+   TRENDS IN THE ATLANTIC-MEDITERRANEAN LINKAGE COAST
+SO JOURNAL OF COASTAL RESEARCH
+LA English
+DT Article
+DE INTERGLACIAL; SEA-LEVEL CHANGE; BAR; LITTORAL DYNAMICS; LONGSHORE SPIT;
+   LITTORAL DRIFT; CONTROL EROSION
+AB The systems of spit bars that crop out in the area of linkage Atlantic-Mediterranean began to accumulate around 6,900 yr BP during the maximum of the Present Interglacial. From the morpho-sedimentological study of these spit bar systems, the study of littoral dynamics (particularly the littoral drift and interchange of ''superficial Atlantic water'' (SAW) and Mediterranean water), and the results of C-14 measurements, we have deduced that (a) the maximum of the Present Interglacial took place ca. 6.500 yr BP, (b) the progradation of spit bar systems relates to climate; anticyclonic conditions increase the entrance of ''superficial Atlantic Water'' into the Mediterranean, and enhance littoral drift favouring progradation. In contrast, the entrance of SAW decreases under low-pressure conditions causing reduced littoral drift, no progradation and, as a consequence, generation of the very large swales or erosional surfaces separating successive spits. (c) In the most complete case, four large prograding bodies called H-1, H-2, H-3 and H-4, can be distinguished, but more C-14 measurements are required to deduce more precise periodicities.
+C1 UNIV SALAMANCA,FAC CIENCIAS,DEPT GEOL GEODINAMICA,E-37008 SALAMANCA,SPAIN.
+   UNIV COMPLUTENSE MADRID,FAC CIENCIAS GEOL,CSIC,INST GEOL ECON,DEPT ESTRATIGRAFIA,E-28040 MADRID,SPAIN.
+   UNIV ROMA LA SAPIENZA,CNR,CTR STUDIO GEOCHIM APPLICATA STRATIGRAFIA RECENTE,I-00185 ROME,ITALY.
+   UNIV ROMA LA SAPIENZA,DIPARTIMENTO FIS,I-00185 ROME,ITALY.
+   UNIV MADRID,FAC CIENCIAS,DEPT GEOL,MADRID 3,SPAIN.
+RP ZAZO, C (reprint author), CSIC,MUSEO NACL CIENCIAS NAT,DEPT GEOL,JOSE GUTIERREZ ABASCAL 2,E-28006 MADRID,SPAIN.
+RI Silva, Pablo G/G-8950-2015; Lario, Javier/A-3438-2012; Somoza,
+   Luis/C-1400-2010; Zazo, Caridad/H-4473-2015; Bardaji,
+   Teresa/H-6468-2015; Jose Luis, Goy/H-4384-2015
+OI Silva, Pablo G/0000-0003-1470-292X; Lario, Javier/0000-0002-2582-5354;
+   Somoza, Luis/0000-0001-5451-2288; Zazo, Caridad/0000-0002-1756-7586;
+   Bardaji, Teresa/0000-0003-2988-8077; Jose Luis, Goy/0000-0001-8304-1091
+CR ABRANTES F, 1988, MAR MICROPALEONTOL, V13, P79, DOI 10.1016/0377-8398(88)90013-8
+   BORREGO J, 1993, J COASTAL RES, V9, P242
+   CANO N, 1986, B I ESPANOL OCEANOGR, V136, P1
+   CASTAGNOLI GC, 1988, SOL PHYS, V117, P187, DOI 10.1007/BF00148582
+   DABRIO CJ, 1986, 10 C NAC SED, V1, P329
+   DABRIO CJ, 1987, LATE QUATERNARY SEA, P227
+   DABRIO CJ, 1980, 1 REUN GEGAOT SANT C
+   DABRIO CJ, 1983, 2 REUN GEGAOT
+   Devaux M., 1985, THESIS U BORDEAUX 1
+   GOY JL, 1986, EDIT ORSTOM COLL TRA, V197, P169
+   PARRILLA G, 1987, Boletin Instituto Espanol de Oceanografia, V4, P133
+   SOMOZA L, 1991, M OCEAN CHANGE MANAG
+   SUESS HE, 1971, PALAEOGEOGR PALAEOCL, V10, P199, DOI 10.1016/0031-0182(71)90027-7
+   WEAVER PPE, 1988, PALAEOGEOGR PALAEOCL, V64, P35, DOI 10.1016/0031-0182(88)90140-X
+   ZAZO C, 1993, GLOBAL PLANET CHANGE, V7, P109
+   ZAZO C, 1992, IBG SPEC PUBL, V27, P204
+   1991, NIVELES MEDIOS CONST
+NR 17
+TC 102
+Z9 103
+U1 2
+U2 7
+PU COASTAL EDUCATION & RESEARCH FOUNDATION
+PI LAWRENCE
+PA 810 EAST 10TH STREET, LAWRENCE, KS 66044
+SN 0749-0208
+J9 J COASTAL RES
+JI J. Coast. Res.
+PD FAL
+PY 1994
+VL 10
+IS 4
+BP 933
+EP 945
+PG 13
+WC Environmental Sciences; Geography, Physical; Geosciences,
+   Multidisciplinary
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA PJ190
+UT WOS:A1994PJ19000011
+DA 2019-03-21
+ER
+
+PT J
+AU ARGUE, JR
+AF ARGUE, JR
+TI A NEW STREETSCAPE FOR STORMWATER MANAGEMENT IN MEDITERRANEAN-CLIMATE
+   CITIES - THE CONCEPT EXPLORED
+SO WATER SCIENCE AND TECHNOLOGY
+LA English
+DT Review
+DE AQUIFER; GRAVEL TRENCH; MEDITERRANEAN; POLLUTION; RESIDENTIAL; ROADWAY
+   RESERVE; STORMWATER; STREETSCAPE; SWALE; URBAN
+AB The water resources crisis facing countries of the Mediterranean Basin is reflected, in diminished form, in the semi-arid, ''Mediterranean-climate'' zone of Australia.  Some creative solutions involving the collection, treatment, storage, retrieval and use of storm runoff to replace the component of mains-supplied water presently used for ''second quality'' purposes, are emerging in Adelaide, capital city of South Australia.  The paper describes one initiative being taken to achieve source control of stormwater - quantity and quality - in mixed-density residential streets.  The resulting streetscape is suitable for use in both ''greenfields'' and re-development projects.  The paper explores the hydrological/hydraulic performance of the system and shows that it satisfies all theoretical requirements for safety in the full range of flooding up to and including the ''once in 100-years'' event.  The new streetscape holds the following advantages over conventional streetscapes : reduced peak outflows, greatly improved effluent water quality, aids ''greening'' of the landscape, potential for aquifer recharge where appropriate, aquifer retrieved groundwater can replace mains water used for irrigation, ''nuisance'' flows are fully contained (no surface appearance), major flows only occupy the swale, street residences are less flood prone and the streetscape fits more harmoniously into undulating terrain.
+RP ARGUE, JR (reprint author), UNIV S AUSTRALIA,CTR URBAN WATER RESOURCES,THE LEVELS,SA 5095,AUSTRALIA.
+CR BEKELE G, 1993, 6TH P INT C URB STOR
+   HOPKINS B, 1993, 6TH P INT C URB STOR
+   HOPKINS B, 1992, DEC P AWWA INT C WET
+   PEARCE F, 1993, NEW SCI, V139
+   SOMARATNE NM, 1990, 5TH P INT C URB STOR
+   YEN BC, 1980, J HYDR ENG DIV-ASCE, V106, P1055
+NR 6
+TC 2
+Z9 2
+U1 0
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0273-1223
+J9 WATER SCI TECHNOL
+JI Water Sci. Technol.
+PY 1994
+VL 30
+IS 1
+BP 23
+EP 32
+PG 10
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA PX755
+UT WOS:A1994PX75500004
+DA 2019-03-21
+ER
+
+PT J
+AU HOPKINS, B
+   ARGUE, JR
+AF HOPKINS, B
+   ARGUE, JR
+TI CONSTRUCTED SOURCE WETLAND CONCEPTS APPLIED TO URBAN LANDSCAPES
+SO WATER SCIENCE AND TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT IAWQ 3rd International Specialist Conference on Wetland Systems in Water
+   Pollution Control
+CY NOV 23-25, 1992
+CL SYDNEY, AUSTRALIA
+SP INT ASSOC WATER QUAL
+DE STORMWATER; AQUIFERS; URBAN CATCHMENT; URBAN RUNOFF; URBAN POLLUTION;
+   SWALES; GRAVEL-FILLED TRENCHES
+AB A class of wetland is introduced which employs engineering practices and installations to collect, store, dispose of, retrieve and use stormwater, at source, in the urban landscape. Two Adelaide (South Australia) examples of ''source wetlands'' are described. At New Brompton Estate, roof runoff from (eventually) a cluster of 15 residences is diverted to a 106 m gravel-filled trench in a central reserve. The collected water sustains a row of deciduous trees bordering the reserve and provides frequent (winter) charges, via a bore, to a Quaternary aquifer at depth 30 m.
+   At Northfield a swale/trench system which handles all storm runoff from a residential street (including domestic contribution) will be trialled. Runoff seeping to the trench from the swale will be of high quality and will provide charges of water to a 5 m Quaternary aquifer. Some runoff of good quality will pass from the catchment in large storm events. In both cases, New Brompton and Northfield, water retrieved from the Quaternary aquifers in summer will be used for open space irrigation. Constructed source wetlands offer a valuable new option in urban stormwater quantity/quality management.
+RP HOPKINS, B (reprint author), UNIV S AUSTRALIA,SCH CIVIL ENGN,ADELAIDE,SA 5095,AUSTRALIA.
+CR COOPER PF, 1990, CONSTRUCTED WETLANDS
+   ELLIS JB, 1992, FEB P IE AUST INT S
+   HAMMER DA, 1991, CREATING FRESHWATER
+   MCCOMB AJ, 1990, AUSTR WETLANDS
+   SOMARATNE NM, 1989, NOV P INT HYDR WAT R
+   THAYER RL, 1991, OCT LANDSCAPE ARCHIT
+   TORNO JC, 1989, AM SOC CIVIL ENG
+   URBONAS B, 1986, URBAN RUNOFF QUALITY
+   1981, MAR I WS DOM RAINW T
+   1984, MAY CONV WETL INT IM
+NR 10
+TC 2
+Z9 2
+U1 0
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0273-1223
+J9 WATER SCI TECHNOL
+JI Water Sci. Technol.
+PY 1994
+VL 29
+IS 4
+BP 133
+EP 140
+PG 8
+WC Engineering, Environmental; Environmental Sciences; Water Resources
+SC Engineering; Environmental Sciences & Ecology; Water Resources
+GA NV300
+UT WOS:A1994NV30000018
+DA 2019-03-21
+ER
+
+PT J
+AU LINDSEY, G
+   ROBERTS, L
+   PAGE, W
+AF LINDSEY, G
+   ROBERTS, L
+   PAGE, W
+TI INSPECTION AND MAINTENANCE OF INFILTRATION FACILITIES
+SO JOURNAL OF SOIL AND WATER CONSERVATION
+LA English
+DT Article
+AB This paper reports the results of a 1990 field survey of stormwater infiltration facilities constructed in Maryland pursuant to the Stormwater Management Act.  The study replicates investigations conducted in 1986.  Types of facilities inspected include infiltration basins and trenches, dry wells, porous pavement facilities, and vegetative swales. Analysis of field inspections reveals that the condition of facilities declined significantly in in four years.  Half the facilities are not functioning as designed, and two-thirds of the facilities need maintenance.  Dry wells and trenches are shown to be functioning as designed more frequently and to need less maintenance than porous pavement facilities and infiltration basins. The need for improvements in inspection and maintenance is noted.
+C1 MARYLAND DEPT ENVIRONM,SEDIMENT & STORMWATER ADM,BALTIMORE,MD.
+RP LINDSEY, G (reprint author), INDIANA UNIV,SCH PUBL & ENVIRONM AFFAIRS,INDIANAPOLIS,IN 46204, USA.
+CR KORT R, 1990, MARYLANDS STORMWATER
+   KUO CY, 1988, WATER RESOUR BULL, V24, P125
+   LINDSEY G, 1990, CONTROLLING URBAN RU
+   LINDSEY GL, 1991, STORMWATER MANAGEMEN
+   Morgan R.P.C., 1986, SOIL EROSION CONSERV
+   PENSYL K, 1987, RESULTS STATE MARYLA
+   Schueler T. R., 1987, CONTROLLING URBAN RU
+   WOLMAN MG, 1960, J GEOL, V68, P54, DOI 10.1086/626637
+   1990, URBAN TARGETING BMP
+   1986, MAINTENANCE STORMWAT
+   1985, INSPECTORS GUIDELINE
+   1981, APWA49 RES F I WAT R
+   1984, STANDARDS SPECIFICAT
+   1984, NOAA HOURLY PRECIPIT
+NR 14
+TC 48
+Z9 55
+U1 0
+U2 15
+PU SOIL WATER CONSERVATION SOC
+PI ANKENY
+PA 7515 N E ANKENY RD, ANKENY, IA 50021-9764
+SN 0022-4561
+J9 J SOIL WATER CONSERV
+JI J. Soil Water Conserv.
+PD NOV-DEC
+PY 1992
+VL 47
+IS 6
+BP 481
+EP 486
+PG 6
+WC Ecology; Soil Science; Water Resources
+SC Environmental Sciences & Ecology; Agriculture; Water Resources
+GA KJ763
+UT WOS:A1992KJ76300012
+DA 2019-03-21
+ER
+
+PT J
+AU LINDSEY, G
+   ROBERTS, L
+   PAGE, W
+AF LINDSEY, G
+   ROBERTS, L
+   PAGE, W
+TI MAINTENANCE OF STORMWATER BMPS IN 4 MARYLAND COUNTIES - A STATUS-REPORT
+SO JOURNAL OF SOIL AND WATER CONSERVATION
+LA English
+DT Article
+AB This paper reports the findings of field inspections of more than 250 stormwater facilities in four counties in Maryland.  The types of facilities inspected include detention basins, infiltration basins and trenches, dry wells, underground storage facilities, and vegetated swales.  While most of the facilities are found to be functioning as designed, many needed maintenance.  Inspectors believe that enforcement action is warranted at many sites.  The condition of different types of facilities varies significantly.  Several models are used to explain results.  Overall, the investigations document the need for improved inspection and maintenance by stormwater management regulatory authorities.
+C1 JOHNS HOPKINS UNIV,DEPT GEOG & ENVIRONM ENGN,BALTIMORE,MD 21218.
+   MARYLAND DEPT ENVIRONM,SEDIMENT & STORMWATER ADM,BALTIMORE,MD 21233.
+RP LINDSEY, G (reprint author), INDIANA UNIV,SCH PUBL & ENVIRONM AFFAIRS,INDIANAPOLIS,IN 46202, USA.
+CR EDWARDS WM, 1991, J SOIL WATER CONSERV, V46, P75
+   KORT R, 1990, MARYLANDS STORMWATER
+   KUO CY, 1988, WATER RESOUR BULL, V24, P125
+   LINDSEY G, 1991, INSPECTION MAINTENAN
+   Morgan R.P.C., 1986, SOIL EROSION CONSERV
+   PENSYL K, 1987, RESULTS STATE MARYLA
+   Schueler T. R., 1987, CONTROLLING URBAN RU
+   WOLMAN MG, 1960, J GEOL, V68, P54, DOI 10.1086/626637
+   1990, URBAN TARGETING BMP
+   1986, MAINTENANCE STORMWAT
+   1985, INSPECTORS GUIDELINE
+   1981, APWA49 RES F I WAT R
+   1984, STANDARDS SPECIFICAT
+   1984, NOAA HOURLY PRECIPIT
+NR 14
+TC 11
+Z9 11
+U1 0
+U2 9
+PU SOIL WATER CONSERVATION SOC
+PI ANKENY
+PA 7515 N E ANKENY RD, ANKENY, IA 50021-9764
+SN 0022-4561
+J9 J SOIL WATER CONSERV
+JI J. Soil Water Conserv.
+PD SEP-OCT
+PY 1992
+VL 47
+IS 5
+BP 417
+EP 422
+PG 6
+WC Ecology; Soil Science; Water Resources
+SC Environmental Sciences & Ecology; Agriculture; Water Resources
+GA KH878
+UT WOS:A1992KH87800017
+DA 2019-03-21
+ER
+
+PT J
+AU KALLIOLA, R
+   SALO, J
+   PUHAKKA, M
+   RAJASILTA, M
+AF KALLIOLA, R
+   SALO, J
+   PUHAKKA, M
+   RAJASILTA, M
+TI NEW SITE FORMATION AND COLONIZING VEGETATION IN PRIMARY SUCCESSION ON
+   THE WESTERN AMAZON FLOODPLAINS
+SO JOURNAL OF ECOLOGY
+LA English
+DT Article
+ID DIVERSITY
+AB (1) The major proportion of western Amazon forests grow on fluvial deposits and thus originated in floodplain environments. The fluviodynamic character of the sites initially colonized by plants was studied along different river types. and this information was combined with botanical observations from the same areas. Special emphasis was given to colonizing plant distribution and survival in relation to the abiotic environment. (2) Four frequently occurring landform types. each rich in microforms. were recognized in relation to the colonization process: fluvial bars, swales, abandoned channels and riverbanks. They are affected by seasonal fluctuations in the rivers and tend to be narrow, curved or linear patches. Local site and colonizing vegetation characteristics vary considerably between different river types (meandering or braided, rich or poor in suspended sediment). (3) The newly deposited fluvial sediments are poor in organic carbon and nitrogen. Colonization begins either with immigrant propagules dispersed by wind or water, or with the invasion of species by vegetative means. Usually numbers of individuals are few, and the initial vegetation pattern is a reflection of the small-scale mosaic of microsites. The pioneer flora (125 species recorded) includes many widespread perennial herbs, and seeds of most forest species do not germinate in the dry sediments. Herbaceous colonist species are almost non-existent in suspension-poor rivers of low erosion rate. (4) The persistence of the initial plant assemblage is controlled by the evolution of fluvial landforms. Only a few species among the set of colonists are significant in later forest succession. These include Tessaria integrifolia and Gynerium sagittatum, which resist moderate flood damage and resprout after burial. Mature seed populations of these 10- 15-m-tall species are abundant at the outermost margin of the successional forest just beyond the fluvial bars. The low representation of tree species in the colonizing phase suggests that the extreme environmental conditions at the river margins differ from other natural environments along the Amazon. (5) Aquatic succession on lakes affected by suspension-rich waters starts with genuine floating species. The general habits of these vegetation assemblages and their species composition are highly similar in the 'white-water' floodplains of the study area. An annual vegetation flush characteristically follows the flood period. On the other hand, macrophyte vegetation is almost non-existent on the floodplain lakes of suspension-poor rivers. (6) The Amazon floodplain corridors provide a good opportunity for ecological studies of plant colonization because basically similar succession is present at each meander along the rivers. Furthermore, the basic physiographic processes which form the sites and control their further evolution are both well known and measurable.
+RP KALLIOLA, R (reprint author), UNIV TURKU,DEPT BIOL,SF-20500 TURKU 50,FINLAND.
+CR BAKER VR, 1978, MEMOIR CANADIAN SOC, V5, P211
+   Croat T. B., 1978, FLORA BARRO COLORADO
+   Egler F.E., 1954, VEGETATIO, V4, P412, DOI [DOI 10.1007/BF00275587, 10.1007/BF00275587]
+   ENCARNACION F, 1985, Candollea, V40, P237
+   EVERITT BL, 1968, AM J SCI, V266, P417, DOI 10.2475/ajs.266.6.417
+   FENNER M, 1987, COLONIZATION SUCCESS, P103
+   Fleming T. H., 1986, FRUGIVORES SEED DISP, P357
+   Foster R. B., 1980, Conservation biology. An evolutionary-ecological perspective., P75
+   GARWOOD NC, 1979, SCIENCE, V207, P997
+   GENTRY AH, 1981, PLANT SYST EVOL, V137, P95, DOI 10.1007/BF00983208
+   Grime J. P., 1979, PLANT STRATEGIES VEG
+   GROSS KL, 1982, ECOLOGY, V63, P921, DOI 10.2307/1937232
+   GRUBB PJ, 1987, COLONIZATION SUCCESS, P81
+   HOFFMANN AJJ, 1975, CLIMATIC ATLAS S AM
+   JUNK WJ, 1983, ECOSYSTEMS WORLD B, V4, P269
+   KALLIOLA R, 1987, MEM MUS HIST NAT J A, V19, P1
+   KALLIOLA R, 1991, IN PRESS FLORA
+   KALLIOLA R, 1988, MEMORIAS MUSEO HIST, V19, P1
+   KALLIOLA R, 1991, IN PRESS NATURWISSEN
+   KOVALCHIK BL, 1990, FOREST ECOL MANAG, V33-4, P405, DOI 10.1016/0378-1127(90)90206-Q
+   LAMOTTE S, 1990, FOREST ECOL MANAG, V33-4, P141, DOI 10.1016/0378-1127(90)90189-I
+   LATHRAP DW, 1968, AM ANTIQUITY, V33, P62, DOI 10.2307/277773
+   Levey R.A, 1978, MEMOIR CANADIAN SOC, V5, P105
+   Lewin J, 1978, PROGR PHYSICAL GEOGR, V2, P408
+   MACBRIDE FJ, 1943, BOTANICAL SERIES, V13
+   MACBRIDE FJ, 1936, BOTANICAL SERIES, V13
+   MENGES ES, 1983, AM NAT, V122, P454, DOI 10.1086/284149
+   Miles J., 1987, COLONIZATION SUCCESS, P1
+   NELLER RJ, 1991, IN PRESS Z GEOMORPHO
+   RASANEN ME, 1987, SCIENCE, V238, P1398, DOI 10.1126/science.238.4832.1398
+   RAUP HM, 1975, J ARNOLD ARBORETUM, V56, P126
+   Reineck H.-E., 1980, DEPOSITIONAL SEDIMEN
+   RICHARDS PW, 1957, TROPICAL RAIN FOREST
+   SALO J, 1986, NATURE, V322, P254, DOI 10.1038/322254a0
+   SALO J, 1989, TROPICAL FORESTS BOT, P35
+   SALO JS, 1991, UNESCO MAN BIOSPHERE, V6, P245
+   SEIDENSCHWARZ F, 1986, AMAZONIANA, V10, P79
+   Selley R, 1982, INTRO SEDIMENTOLOGY
+   SHMIDA A, 1985, J BIOGEOGR, V12, P1, DOI 10.2307/2845026
+   Sioli H., 1984, AMAZON LIMNOLOGY LAN, P127, DOI DOI 10.1007/978-94-009-6542-3_5
+   SMITH ND, 1978, MEM CAN SOC PETR GEO, V5, P85
+   SOUTHWOOD TRE, 1988, PROC R SOC SER B-BIO, V234, P11, DOI 10.1098/rspb.1988.0036
+   WALKER LR, 1986, ECOLOGY, V67, P1243, DOI 10.2307/1938680
+   WHITE PS, 1979, BOT REV, V45, P229, DOI 10.1007/BF02860857
+   Whitmore T. C., 1983, Forestry Abstracts, V44, P767
+NR 45
+TC 121
+Z9 125
+U1 1
+U2 19
+PU BLACKWELL SCIENCE LTD
+PI OXFORD
+PA OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL
+SN 0022-0477
+J9 J ECOL
+JI J. Ecol.
+PD DEC
+PY 1991
+VL 79
+IS 4
+BP 877
+EP 901
+DI 10.2307/2261087
+PG 25
+WC Plant Sciences; Ecology
+SC Plant Sciences; Environmental Sciences & Ecology
+GA HQ474
+UT WOS:A1991HQ47400001
+DA 2019-03-21
+ER
+
+PT J
+AU DEROSE, RC
+   TRUSTRUM, NA
+   BLASCHKE, PM
+AF DEROSE, RC
+   TRUSTRUM, NA
+   BLASCHKE, PM
+TI GEOMORPHIC CHANGE IMPLIED BY REGOLITH - SLOPE RELATIONSHIPS ON STEEPLAND
+   HILLSLOPES, TARANAKI, NEW-ZEALAND
+SO CATENA
+LA English
+DT Article
+AB Slope angle and regolith depth were measured along profile lines covering a range of hillslopes in several small neighbouring drainage basins in Taranaki hill country, New Zealand.
+   Slope measurements show a cyclic variation along the length of broadly rectilinear profiles. Variation in slope on the lower portion of profiles adjacent to stream channels indicates that hillslopes have undergone phases of accelerated downcutting and hillslope rejuvenation. A recent phase of increased erosion and hillslope rejuvenation is suggested for hillslopes steeper than 31-degrees by the steep lowerslope and incised stream channel. Hillslope evolution occurs primarily by parallel retreat of steeper swale sites and slope decline during pauses in the rate of downcutting.
+   All slope profiles show a large range in regolith depth. Mean regolith depth of swale sites is highly correlated with mean profile slope angle. Mean regolith depth decreases and the frequency of landslides increase with increasing mean profile slope angle. Microtopographic variation in regolith depth is attributed mainly to vegetation effects, recurrent landsliding, and in-part to bedrock curvature, hillslope position, and slope angle. Shallowing of regolith is caused by recurrent landsliding on steep swale sites, fluvial erosion at the base of steep profiles, and surface erosion on extremely convex spur sites. The very shallow soil on the steep lowerslope portion of profiles suggests a phase of soil removal, consistent with hillslope rejuvenation.
+   Average depth of regolith is least at 97 cm, and variability greatest, on hillslopes with a profile mean exceeding 31-degrees. Erosion rates are greater on these sites where soil is derived predominantly from underlying Tertiary sandstone. This is attributed to a greater frequency of landsliding compared to hillslopes with a profile slope less than 31-degrees where a more regular and deeper average regolith of 153 cm infers a longer period of hillslope stability consistent with the high volcanic ash content of soils. Airfall andesitic volcanic ash, deposited throughout the Holocene, has largely been removed from steeper sites.
+   The work demonstrates the need to interpret the frequency and distribution of landslides in context with natural geomorphic changes in order to assess the effect that landuse changes has on erosion rates.
+RP DEROSE, RC (reprint author), DSIR, LAND RESOURCES, CTR SOIL CONSERVAT, PALMERSTON NORTH, NEW ZEALAND.
+CR AITKEN JF, 1978, NZ DSIR42 NZ SOIL SU
+   ALLOWAY BV, 1989, THESIS MASSEY U
+   BLASCHKE PM, 1988, THESIS VICTORIA U WE
+   BLASCHKE PM, IN PRESS AGR ECOSYST
+   CAMPBELL IB, 1975, NEW ZEAL J SCI, V18, P53
+   Carson M., 1972, HILLSLOPE FORM PROCE
+   Crozier M.J., 1986, LANDSLIDES CAUSES CO
+   CROZIER MJ, 1990, EARTH SURF PROCESSES, V15, P329, DOI 10.1002/esp.3290150404
+   CROZIER MJ, 1980, NEW ZEAL J GEOL GEOP, V23, P575, DOI 10.1080/00288306.1980.10424129
+   CROZIER MJ, 1982, MASS MOVEMENT EROSIO
+   Dietrich W. E., 1982, PNW141 US FOR SERV, P5
+   DIETRICH W.E., 1986, HILLSLOPE PROCESSES, P361
+   DOUGLAS GB, 1986, NZ J AGR RES, V29, P188
+   Gage M., 1979, 66 NZ FOR SERV FOR R
+   GEDDES AM, 1982, SOIL GROUPS NZ 6
+   GRANT PJ, 1985, J ROY SOC NEW ZEAL, V15, P67, DOI 10.1080/03036758.1985.10421743
+   HACK JT, 1960, 347 US GEOL SURV PRO
+   HARMSWORTH GR, 1987, MINISTRY WORKS DEV I, V11
+   HEERDEGEN RG, 1982, LANDFORMS NZ
+   HICKS DL, 1989, DSIR PN2 DIV LAND SO
+   HICKS DL, 1990, DSIR31 LAND RES TECH
+   IIDA T, 1983, Z GEOMORPHOL, V46, P67
+   Milne J. D. G., 1979, ACTA GEOLOGICA ACADE, V22, P197
+   NEALL VE, 1972, NEW ZEAL J GEOL GEOP, V15, P507, DOI 10.1080/00288306.1972.10423983
+   NEALL VE, 1982, LANDFORMS NZ
+   O'Loughlin C.L., 1982, CARBON UPTAKE ALLOCA, P70
+   OLoughlin C. L., 1976, B INT ASS ENG GEOLOG, V14, P41, DOI DOI 10.1007/BF02634757
+   PAIN CF, 1971, AUST GEOGR STUD, V9, P77, DOI 10.1111/j.1467-8470.1971.tb00245.x
+   Pearce A.J., 1986, J WATER RESOURCES, V5, P551
+   PEARCE AJ, 1983, EARTH SURF PROC LAND, V8, P29, DOI 10.1002/esp.3290080104
+   Phillips C.J., 1988, J HYDROL NZ, V27, P99
+   Pillans B, 1988, Z GEOMORPHOLOGIE S, V69, P87
+   Pillans B., 1986, ROYAL SOC NZ B, V24, P409
+   PILLANS B, 1982, LANDFORMS NZ
+   SCHUMM SA, 1965, AM J SCI, V263, P110, DOI 10.2475/ajs.263.2.110
+   SELBY MJ, 1979, PHYSICAL HYDROLOGY N, P120
+   SIDLE RC, 1985, AM GEOPHYSICAL UNION, V11
+   STEVENS G, 1988, PREHISTORIC NZ
+   TONKIN PJ, 1984, THESIS LINCOLN COLLE
+   TROTTER CM, 1989, ITN GEOSCIENCE REMOT, V4, P1990
+   Trustrum N., 1988, GEOMORPHOLOGY, V1, P143, DOI DOI 10.1016/0169-555X(88)90012-8
+   TRUSTRUM NA, 1981, NEW ZEAL J EXP AGR, V9, P31, DOI 10.1080/03015521.1981.10427799
+   TRUSTRUM NA, 1986, FAO19863 REG OFF AS, P73
+   TRUSTRUM NA, 1990, 14TH T INT C SOIL SC, V1, P125
+   TRUSTRUM NA, 1989, INDONESIA S, V34, P1
+   TRUSTRUM NA, 1984, P NZ GRASSLAND ASS, V45, P66
+   WILSON CJN, 1988, GEOL MAG, V125, P297, DOI 10.1017/S0016756800010232
+   YOUNG A, 1986, HILLSLOPE PROCESSES, P3
+   Young A., 1972, SLOPES
+NR 49
+TC 26
+Z9 27
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0341-8162
+EI 1872-6887
+J9 CATENA
+JI Catena
+PD OCT
+PY 1991
+VL 18
+IS 5
+BP 489
+EP 514
+DI 10.1016/0341-8162(91)90051-X
+PG 26
+WC Geosciences, Multidisciplinary; Soil Science; Water Resources
+SC Geology; Agriculture; Water Resources
+GA GH583
+UT WOS:A1991GH58300006
+DA 2019-03-21
+ER
+
+PT J
+AU WOHL, EE
+   PEARTHREE, PP
+AF WOHL, EE
+   PEARTHREE, PP
+TI DEBRIS FLOWS AS GEOMORPHIC AGENTS IN THE HUACHUCA MOUNTAINS OF
+   SOUTHEASTERN ARIZONA
+SO GEOMORPHOLOGY
+LA English
+DT Article
+AB Numerous debris flows occurred in the Huachuca Mountains of southeastern Arizona during the summer rainy season of 1988 in areas that were burned by a forest fire earlier in the summer. Debris flows occurred following a major forest fire in 1977 as well, suggesting a causal link between fires and debris flows. Abundant evidence of older debris flows preserved along channels and in mountain front fans indicates that debris flows have occurred repeatedly during the late Quaternary in this environment. Soil development in sequences of debris-flow deposits indicates that debris flows probably recur over time intervals of several hundred to a thousand years in individual drainage basins in the study area.
+   Surface runoff in the steep drainage basins of the Huachuca Mountains is greatly enhanced following forest fires, as the hillslopes are denuded of their vegetative cover. Water and sediment eroded from the hillslope regolith are rapidly introduced into the upper reaches of tributary channels by widespread rilling and slope wash during rainfall events. This influx of water and sediment destabilizes regolith previously accumulated in the channel, triggering debris flows that scour the channel to bedrock in the upper reaches. Following a debris flow, the scoured, trapezoidally-shaped channel gradually assumes a swale shape and the percentage of exposed bedrock declines, as material is introduced from the slopes. Debris flows do a tremendous amount of work in a very short time, however, and are the major channel-forming events.
+   Where the tributary channels enter larger, trunk channels, the debris flows serve as the main source of very coarse sediment. The local slope and coarse particle distribution of the trunk channel depend on the competence of water flows in the channel to transport the material introduced by debris flows. Where the smaller channels drain directly to the mountain front, debris flows create extensive alluvial fans which dominate the morphology of the basin-range boundary.
+   Time intervals between debris flows in the drainage basins of the Huachuca Mountains are probably controlled by complex interactions among climate, forest f ires and slope processes. Fires destroy the protective vegetation that stabilizes the upper catchment slopes and inhibits erosion. However, not every fire that bums a catchment causes debris flows, because sufficient weathered material must accumulate in the upper channel reaches to initiate a large debris flow. If such accumulation has not occurred, the material introduced to a channel following a forest fire will move only a short distance down the channel. Thus, the episodic nature of debris flows probably depends on rates of slope weathering and erosion. which are in turn controlled by climate, both directly and through vegetation and forest fires.
+RP WOHL, EE (reprint author), COLORADO STATE UNIV,DEPT EARTH RESOURCES,FT COLLINS,CO 80523, USA.
+NR 0
+TC 80
+Z9 81
+U1 3
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-555X
+J9 GEOMORPHOLOGY
+JI Geomorphology
+PD OCT
+PY 1991
+VL 4
+IS 3-4
+BP 273
+EP 292
+DI 10.1016/0169-555X(91)90010-8
+PG 20
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA GP179
+UT WOS:A1991GP17900009
+DA 2019-03-21
+ER
+
+PT J
+AU STEVENS, BPJ
+AF STEVENS, BPJ
+TI SOME ALIGNED CLAYPANS IN THE STRZELECKI DUNEFIELD, CENTRAL AUSTRALIA
+SO AUSTRALIAN JOURNAL OF EARTH SCIENCES
+LA English
+DT Article
+DE AEOLIAN; CLAYPANS; DUNEFIELD; PLEISTOCENE; STRZELECKI
+ID DESERT DUNES
+AB Sets of claypans in the Strzelecki dunefield are commonly aligned obliquely or almost perpendicular to the trend of longitudinal (seif) dunes.  The claypan alignments form an arcuate convex-north pattern in the dunefield.  Three types of claypan define the alignments:  (i) Floodflats and/or lakes associated with curved portions of modern or palaeoriver systems.  These were major sources of aeolian sediments.  (ii) Sets of small claypans developed downwind from lakebeds, including salt lakes, and from type 1 claypans.  These claypans form in swales between transverse dunes.  The swales are crossed by longitudinal dunes.  (iii) Claypans not associated with river systems or salt lakes.  These formed by wind erosion of the pre-existing land surface.
+   The aligned claypans probably formed as a result of Pleistocene aeolian erosion and deposition, coincident with development of the dunefield.  The arcuate pattern probably reflects variations in wind-strength, greatest in the central area and lesser near rocky rises on the margin of the field.
+   A previous explanation for the claypans is that they resulted from gradual diminution of a mega-lake, Lake Dieri, during the Late Tertiary to Late Quaternary.  There is evidence for extensive lacustrine facies during the Miocene-Pliocene, but many of the aligned claypans are developed on younger fluvial deposits.
+   Undoubtedly the major existing lakes in the region have fluctuated in size during the Quaternary, but no evidence relates the aligned claypans to the previously proposed mega-lake.
+RP STEVENS, BPJ (reprint author), GEOL SURVEY NEW S WALES,32 SULPHIDE ST,BROKEN HILL,NSW 2880,AUSTRALIA.
+CR BLAKEY RC, 1988, GEOLOGY, V16, P483, DOI 10.1130/0091-7613(1988)016<0483:STSAEO>2.3.CO;2
+   BROWNE WR, 1945, P LINN SOC N S W, V70, pR5
+   Callen R. A., 1977, J GEOL SOC AUST, V100, P151, DOI DOI 10.1080/00167617708728976
+   CALLEN RA, 1986, AUSTR SEDIMENTOLOGIS, V4
+   CALLEN RA, 1991, IN PRESS GEOLOGISCHE
+   CHARTRES CJ, 1984, 2ND AUSTR NZ GEOM GR, P20
+   DURY GH, 1970, SEARCH, V1, P73
+   GARDNER GJ, 1987, AUST J EARTH SCI, V34, P343, DOI 10.1080/08120098708729416
+   Goudie A.S., 1989, P GEOL ASS, V100, P83
+   JENNINGS JN, 1968, AUSTR GEOGRAPHER, V10, P408
+   KRIEG GW, 1991, ROYAL SOC S AUSTR NA, V6, P1
+   KRIEG GW, 1980, 8068 S AUSTR DEP MIN
+   Loffler E., 1987, ERDKUNDE, V41, P42
+   LOFFLER E, 1979, Z GEOMORPHOL, V23, P223
+   MCFADDEN LD, 1987, GEOLOGY, V15, P504, DOI 10.1130/0091-7613(1987)15<504:IOEAPP>2.0.CO;2
+   Wasson R. J., 1986, GEOGRAPHICAL REV JAP, V59B, P55
+   Wasson R. J., 1983, Z GEOMORPHOLOGIE S, V45, P85
+   Wasson RJ, 1983, EOLIAN SEDIMENTS PRO, P165
+   WOPFNER H, 1988, GEOL RUNDSCH, V77, P815, DOI 10.1007/BF01830187
+   WOPFNER H, 1984, GEOL SURV Q GEOL NOT, V92, P8
+NR 20
+TC 3
+Z9 3
+U1 0
+U2 0
+PU BLACKWELL SCIENCE
+PI CARLTON
+PA 54 UNIVERSITY ST, P O BOX 378, CARLTON VICTORIA 3053, AUSTRALIA
+SN 0812-0099
+J9 AUST J EARTH SCI
+JI Aust. J. Earth Sci.
+PD SEP
+PY 1991
+VL 38
+IS 4
+BP 485
+EP 495
+DI 10.1080/08120099108727985
+PG 11
+WC Geosciences, Multidisciplinary
+SC Geology
+GA GP104
+UT WOS:A1991GP10400007
+DA 2019-03-21
+ER
+
+PT J
+AU THORSON, RM
+   HARRIS, SL
+AF THORSON, RM
+   HARRIS, SL
+TI HOW NATURAL ARE INLAND WETLANDS - AN EXAMPLE FROM THE TRAIL WOOD AUDUBON
+   SANCTUARY IN CONNECTICUT, USA
+SO ENVIRONMENTAL MANAGEMENT
+LA English
+DT Article
+DE WETLAND HISTORY; HUMAN IMPACT; WILDERNESS; GEOLOGY
+AB We examined the geology of a small inland wetland in Hampton, Connecticut to determine its postglacial history and to assess the severity of human impact at this remote wooded site.  Using stratigraphic evidence, we demonstrate that the present wetland was created when sediment pollution from a 19th-century railroad filled a preexisting artificial reservoir, and that the prehistoric wetland was a narrow drainage swale along Hampton Brook.  This same, severely impacted wetland was interpreted by the Pulitzer Prize-winning naturalist Edwin Way Teale as a beautiful wilderness area of particular interest.  These conflicting perceptions indicate that artificial wetlands can be naturally mitigated in less than a century of healing, even in the absence of deliberate management.  We also point out that the "wilderness" value of the Teale wetland was in the eye of the beholder and that unseen human impacts may have improved the aesthetic experience.
+RP THORSON, RM (reprint author), UNIV CONNECTICUT U-45,DEPT GEOL & GEOPHYS,345 MANSFIELD RD,STORRS,CT 06269, USA.
+CR Aaby B., 1986, HDB HOLOCENE PALAEOE, P145
+   BAILEY RG, 1978, ECOREGIONS US US FOR
+   BARSKE P, 1988, 4TH P WETL C, P91
+   BRUGAM RB, 1978, QUATERNARY RES, V9, P349, DOI 10.1016/0033-5894(78)90038-8
+   Cook Joan, 1980, NEW YORK TIMES  0805, pB10
+   Cowardin LM, 1979, FWSOBS7931
+   CRONON W, 1983, CHANGES LAND INDIANS
+   CUNNINGHAM RL, 1984, SOILS NE US
+   Davis MB, 1983, LATE QUATERNARY ENV, V2, P166
+   DENNY CS, 1982, GEOMORPHOLOGY NEW EN
+   DIXON RR, 1966, GEOLOGIC MAP HAMPTON
+   EGLER FE, 1987, CONNECTICUT CONSERVA, V8
+   Faegri K., 1975, TXB POLLEN ANAL
+   GAUDREAU DC, 1985, POLLEN RECORDS LATE, P245
+   Gore A.J.P., 1983, ECOSYSTEMS WORLD 4A, P1
+   GRADIE RR, 1990, DEV SMALL UPLAND WET, P256
+   Jacobsen G. L., 1987, GEOLOGY N AM K, P277
+   Johnson CW, 1985, BOGS NE
+   METZLER KJ, 1991, IN PRESS WETLANDS CO
+   MILLER DR, 1986, USERS GUIDE MODEL ES
+   MORITZ C, 1961, CURRENT BIOGEOGRAPHY, P447
+   NIERING WA, 1987, NATIONAL WETLANDS NE, V9, P9
+   REILLY WK, 1979, WETLAND FUNCTIONS VA, P26
+   RIDGE JC, 1990, GEOL SOC AM BULL, V102, P889, DOI 10.1130/0016-7606(1990)102<0889:REOANE>2.3.CO;2
+   RUFFNER JA, 1985, CLIMATE STATES, V1, P165
+   TALLIS J. H, 1983, ECOSYSTEMS WORLD A, V4A, P311
+   Teale E. W., 1974, NATURALIST BUYS OLD
+   THORSON RM, 1990, 90191 U CONN DEP CIV
+   Toy TJ, 1987, GEOMORPHOLOGY RECLAM
+   Walker D, 1970, STUDIES VEGETATIONAL, P117
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 1
+PU SPRINGER VERLAG
+PI NEW YORK
+PA 175 FIFTH AVE, NEW YORK, NY 10010
+SN 0364-152X
+J9 ENVIRON MANAGE
+JI Environ. Manage.
+PD SEP-OCT
+PY 1991
+VL 15
+IS 5
+BP 675
+EP 687
+DI 10.1007/BF02589626
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA GJ854
+UT WOS:A1991GJ85400008
+DA 2019-03-21
+ER
+
+PT J
+AU ARON, G
+   BALL, JE
+   SMITH, TA
+AF ARON, G
+   BALL, JE
+   SMITH, TA
+TI FRACTAL CONCEPT USED IN TIME-OF-CONCENTRATION ESTIMATES
+SO JOURNAL OF IRRIGATION AND DRAINAGE ENGINEERING-ASCE
+LA English
+DT Article
+AB In present hydrologic practice, it is generally recognized that the shallow overland sheet flow through the upper portions of a watershed is very slow, and that runoff gradually accelerates as it concentrates into gullies and, finally, streams.  In this paper, the fractal concept is applied by testing whether a watershed's stream-and-swale system branches in a characteristic pattern that repeats itself into successively finer but similar segments.  Commonly used geometric, geomorphologic, hydraulic, and hydrologic equations are combined to reduce the number of parameters.  Kinematic wave equations are then developed for the runoff movement in the channels, and integrated to obtain an equation for the time of concentration.
+RP ARON, G (reprint author), PENN STATE UNIV,DEPT CIVIL ENGN,UNIVERSITY PK,PA 16827, USA.
+RI Ball, James/G-1734-2011
+OI Ball, James/0000-0001-8342-1916
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 4
+PU ASCE-AMER SOC CIVIL ENG
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2398
+SN 0733-9437
+J9 J IRRIG DRAIN E-ASCE
+JI J. Irrig. Drainage Eng-ASCE
+PD SEP-OCT
+PY 1991
+VL 117
+IS 5
+BP 635
+EP 641
+DI 10.1061/(ASCE)0733-9437(1991)117:5(635)
+PG 7
+WC Agricultural Engineering; Engineering, Civil; Water Resources
+SC Agriculture; Engineering; Water Resources
+GA GF906
+UT WOS:A1991GF90600002
+DA 2019-03-21
+ER
+
+PT J
+AU BOYCE, JI
+   EYLES, N
+AF BOYCE, JI
+   EYLES, N
+TI DRUMLINS CARVED BY DEFORMING TILL STREAMS BELOW THE LAURENTIDE ICE-SHEET
+SO GEOLOGY
+LA English
+DT Article
+ID LAKE-ONTARIO BASIN; DEFORMATION; RHEOLOGY; LOBE
+AB The Peterborough drumlin field (5000 km2) is the largest in central Canada and was formed during readvance of the Laurentide ice sheet shortly after 13,000 B.P. Morphometric analysis of 998 drumlins, combined with study of 6921 borehole logs and downhole geophysical data, has established the distribution of drumlin types and their stratigraphy along a 70 km flow line through the drumlin field.  In the north, drumlins are spindle-shaped, composed of till resting directly on bedrock, and were formed by deformation of till into low-pressure zones in the lee of bedrock scarps.  Eskers record subglacial drainage by channeled meltwaters flowing on bedrock.  To the south, drift thickness increases and eskers are absent; drumlins are larger and more avoid and are composed of overridden proglacial and glaciolacustrine sediments overlain erosively by deformation till.  Till is thin over drumlin crests and thick in interdrumlin swales and records subglacial cannibalization and mixing of overridden sediments; the drumlin form is the product of erosion by streams of deforming till flowing in swales separating cores composed of older sediments.  Systematic down-field changes in drumlin shape and size can be related to decreased duration of subglacial deformation toward the limit of the readvance and increased thickness of preexisting sediments available for dissection by subglacial till streams.  Absence of eskers in the central and southern parts of the drumlin field suggests that the ice base was drained by mass flow of the deforming substrate.  The substantial subsurface data available from the Peterborough area indicate that drumlins are predominantly erosional in origin and are the geomorphological expression of a deforming subglacial bed below the margin of the Laurentide ice sheet.
+RP BOYCE, JI (reprint author), UNIV TORONTO,DEPT GEOL,GLACIATED BASIN RES GRP,SCARBOROUGH CAMPUS,SCARBOROUGH M1C 1A4,ONTARIO,CANADA.
+CR ALLEY RB, 1989, J GLACIOL, V35, P108, DOI 10.3189/002214389793701527
+   ALLEY RB, 1987, J GEOPHYS RES-SOLID, V92, P8921, DOI 10.1029/JB092iB09p08921
+   BEGET JE, 1986, J GLACIOL, V32, P235, DOI 10.3189/S0022143000015562
+   Boulton G. S., 1976, J GLACIOL, V17, P287
+   BOULTON GS, 1987, J GEOPHYS RES-SOLID, V92, P9059, DOI 10.1029/JB092iB09p09059
+   BOULTON GS, 1987, DRUMLIN S ROTTERDAM, P24
+   BROOKFIELD ME, 1982, CAN J EARTH SCI, V19, P1836, DOI 10.1139/e82-162
+   BROWN NE, 1987, J GEOPHYS RES-SOLID, V92, P8985, DOI 10.1029/JB092iB09p08985
+   Chapman L. J., 1943, ROYAL SOC CANADA T, V37, P33
+   CLAYTON L, 1989, SEDIMENT GEOL, V62, P203, DOI 10.1016/0037-0738(89)90115-2
+   CLAYTON L, 1985, BOREAS, V14, P235
+   CROZIER MJ, 1975, CAN GEOGR-GEOGR CAN, V19, P181, DOI 10.1111/j.1541-0064.1975.tb01860.x
+   DUCKWORTH PB, 1979, CAN J EARTH SCI, V16, P1094, DOI 10.1139/e79-095
+   Elson J. A., 1989, GENETIC CLASSIFICATI, P85
+   ELSON JA, 1961, NATURAL RES COUNCIL, V69, P5
+   EYLES N, 1985, GEOSCI CAN, V12, P22
+   EYLES N, 1987, CAN J EARTH SCI, V24, P1009, DOI 10.1139/e87-098
+   FUNK G, 1977, WATER RESOURCES BR A, V9
+   GAVENOR CP, 1953, AM J SCI, V251, P674
+   GAVENOR CP, 1957, GEOLOGICAL SURVEY CA, V288
+   HOWARD KWF, 1906, CAN J EARTH SCI, V23, P938
+   Karrow P.F., 1967, 46 ONT DEP MIN GEOL
+   KARROW PF, 1984, QUATERNARY STRATIGRA, P138
+   Kruger J., 1987, DRUMLIN S, P257
+   LIBERTY BA, 1969, ONTARIO GEOLOGICAL S, V355
+   MENZIES J, 1984, DRUMLINS BIBLIO NORW
+   Paul MA, 1974, J GLACIOL, V13, P393
+   SHARPE DR, 1987, DRUMLIN S ROTTERDAM, P195
+   SHAW J, 1983, J GLACIOL, V29, P461, DOI 10.3189/S0022143000030367
+   SHAW J, 1990, GEOLOGY, V18, P1169, DOI 10.1130/0091-7613(1990)018<1169:EFLSSM>2.3.CO;2
+   SHAW J, 1987, CAN J EARTH SCI, V24, P2316, DOI 10.1139/e87-216
+   SIBUL U, 1977, 8 ONNT MIN ENV WAT R
+   SLY PG, 1984, CAN J EARTH SCI, V21, P802, DOI 10.1139/e84-087
+   SMALLEY IJ, 1969, J GLACIOL, V7, P377
+NR 34
+TC 101
+Z9 101
+U1 1
+U2 43
+PU GEOLOGICAL SOC AMERICA
+PI BOULDER
+PA PO BOX 9140 3300 PENROSE PLACE, BOULDER, CO 80301
+SN 0091-7613
+J9 GEOLOGY
+JI Geology
+PD AUG
+PY 1991
+VL 19
+IS 8
+BP 787
+EP 790
+DI 10.1130/0091-7613(1991)019<0787:DCBDTS>2.3.CO;2
+PG 4
+WC Geology
+SC Geology
+GA GA306
+UT WOS:A1991GA30600005
+DA 2019-03-21
+ER
+
+PT J
+AU BOREEN, T
+   WALKER, RG
+AF BOREEN, T
+   WALKER, RG
+TI DEFINITION OF ALLOMEMBERS AND THEIR FACIES ASSEMBLAGES IN THE VIKING
+   FORMATION, WILLESDEN GREEN AREA, ALBERTA
+SO BULLETIN OF CANADIAN PETROLEUM GEOLOGY
+LA English
+DT Article
+AB Over 500 well logs and 153 cores have been used to map three erosion surfaces in the Viking Formation in the area of Garrington, Ferrier, Willesden Green, Crystal, Gilby and Joffre.  These erosion surfaces (Viking erosion surfaces VE2, VE3 and VE4), or bounding discontinuities, allow the definition of five informal allomembers (A through E) in the main Willesden Green study area.  Allomembers A and B contain regionally extensive, sandier-upward successions of bioturbated mudstones and sandstones.  The VE2 erosion surface cuts into allomembers A and B, and is characterized at Willesden Green by two channel segments that trend southwest-northeast and south-southeast-north-northwest.  The channels are up to 11 m deep, and are at the same stratigraphic level as the 30 m deep channel at Crystal.  Allomember C forms the channel fill, and comprises estuarine mudstones and sandstones, crossbedded sandstones, and clast supported conglomerates.  Allomember D contains sandstones and mudstones dominated by wave-formed sedimentary structures - both small ripples and hummocky cross-stratification.  This allomember becomes thicker and sandier southward, and passes into a thick, swaley cross-stratified clean sandstone at Garrington and Caroline.  These sandstones are truncated by the VE4 erosion surface, which rises stratigraphically southward, with at least 16 m of relative relief.  Allomember E, between VE4 and the Base of Fish Scales marker, contains interbedded black mudstones and thin tongues of conglomerate and granule sandstone.
+   The sandier-upward successions in allomembers A and B are interpreted as aggrading, marine, open-shelf deposits.  A lowering of relative sea level resulted in the incision of fluvial drainage.  A subsequent rise of relative sea level resulted in the VE 3 ravinement surface, with river channels backfilling as estuaries.  Allomember D was deposited from a northward-prograding wave-dominated shoreface, but deposition was terminated by another fall of relative sea level.  The VE4 surface was probably cut subaerially, but was modified by erosive marine transgression.  A conglomeratic lag was formed on the surface, and pauses in trangression allowed the deposition of the coarse tongues in allomember E.  Continued trangression resulted in the deposition of the black shales in allomember E.
+   This detailed allostratigraphy establishes the relative stratigraphic positions of the economic producing facies in the Caroline-Garrington, Ferrier-Willesden Green, and Crystal areas.  It also forms the basis for an interpretation of Viking depositional environments in the context of fluctuations of relative sea level.
+RP BOREEN, T (reprint author), QUEENS UNIV,DEPT GEOL SCI,KINGSTON K7L 3N6,ONTARIO,CANADA.
+NR 0
+TC 33
+Z9 33
+U1 0
+U2 0
+PU CANADIAN SOC PETROL GEOLOGISTS
+PI CALGARY
+PA 505, 206 - 7TH AVE SW, CALGARY AB T2P 0W7, CANADA
+SN 0007-4802
+J9 B CAN PETROL GEOL
+JI Bull. Can. Pet. Geol.
+PD JUN
+PY 1991
+VL 39
+IS 2
+BP 123
+EP 144
+PG 22
+WC Energy & Fuels; Engineering, Petroleum; Geosciences, Multidisciplinary
+SC Energy & Fuels; Engineering; Geology
+GA FY578
+UT WOS:A1991FY57800002
+DA 2019-03-21
+ER
+
+PT J
+AU WIGINGTON, PJ
+   RANDALL, CW
+   GRIZZARD, TJ
+AF WIGINGTON, PJ
+   RANDALL, CW
+   GRIZZARD, TJ
+TI ACCUMULATION OF SELECTED TRACE-METALS IN SOILS OF URBAN RUNOFF SWALE
+   DRAINS
+SO WATER RESOURCES BULLETIN
+LA English
+DT Article
+C1 VIRGINIA TECH,DEPT CIVIL ENGN,OCCOQUAN WATERSHED MONITORING LAB,MANASSAS,VA 22110.
+   VIRGINIA POLYTECH INST & STATE UNIV,DEPT CIVIL ENGN,BLACKSBURG,VA 24061.
+RP WIGINGTON, PJ (reprint author), US EPA,ENVIRONM RES LAB CORVALLIS,200 SW 35TH ST,CORVALLIS,OR 97333, USA.
+RI Lucas, Elizabeth/E-2733-2010
+CR AGEMIAN H, 1976, ANALYST, V101, P761, DOI 10.1039/an9760100761
+   BUNZL K, 1976, J SOIL SCI, V27, P32, DOI 10.1111/j.1365-2389.1976.tb01972.x
+   COWLING EB, 1983, ACID RAIN WATER RESO, P3
+   GISH CD, 1973, ENVIRON SCI TECHNOL, V7, P1060, DOI 10.1021/es60083a011
+   HOLLANDER M, 1973, NONPARAMETRIC STATIS
+   KASTER DL, SOILS W COUNTY
+   KINNIBURGH DG, 1976, SOIL SCI SOC AM J, V40, P796, DOI 10.2136/sssaj1976.03615995004000050047x
+   Lagerwerff JV, 1970, ENVIRON SCI TECHNOL, V4, P483
+   Laitinen H. A., 1974, ANAL CHEM, V46, P2022, DOI [DOI 10.1021/AC60349A004, 10.1021/ac60349a004]
+   LAXEN DPH, 1977, WATER RES, V11, P1, DOI 10.1016/0043-1354(77)90175-0
+   LIETZKE DA, 1978, MA218 VIRG TECH EXT
+   Nriagu JO, 1978, BIOGEOCHEMISTRY LE A, V1A, P15
+   PICKERING WF, 1980, ZINC ENV 1, P217
+   REVITT DM, 1980, WATER RES, V14, P1403, DOI 10.1016/0043-1354(80)90004-4
+   SHAHEEN DG, 1975, EPA600275004
+   SOSSLAU AG, 1977, 187 NAT COOP HIGHW R
+   STEVENSON FJ, 1977, SOIL SCI, V123, P10, DOI 10.1097/00010694-197701000-00002
+   WIGINGTON PJ, 1983, WATER RESOUR BULL, V19, P709
+   WILBER WG, 1979, J WATER POLLUT CON F, V51, P2810
+NR 19
+TC 10
+Z9 10
+U1 0
+U2 1
+PU AMER WATER RESOURCES ASSOC
+PI HERNDON
+PA 950 HERNDON PARKWAY SUITE 300, HERNDON, VA 20170-5531
+SN 0043-1370
+J9 WATER RESOUR BULL
+JI Water Resour. Bull.
+PD FEB
+PY 1986
+VL 22
+IS 1
+BP 73
+EP 79
+PG 7
+WC Engineering, Civil; Geosciences, Multidisciplinary; Water Resources
+SC Engineering; Geology; Water Resources
+GA A2919
+UT WOS:A1986A291900011
+DA 2019-03-21
+ER
+
+PT J
+AU KERCHER, WC
+   LANDON, JC
+   MASSARELLI, R
+AF KERCHER, WC
+   LANDON, JC
+   MASSARELLI, R
+TI GRASSY SWALES PROVE COST-EFFECTIVE FOR WATER-POLLUTION CONTROL
+SO PUBLIC WORKS
+LA English
+DT Article
+C1 POST BUCKLEY SCHUH & JERNIGAN INC,ORLANDO,FL.
+   BREVARD CTY WATER RESOURCES DEPT,MERRITT ISL,FL.
+NR 0
+TC 6
+Z9 7
+U1 0
+U2 7
+PU PUBLIC WORKS JOURNAL CORP
+PI RIDGEWOOD
+PA BOX 688, RIDGEWOOD, NJ 07451
+SN 0033-3840
+J9 PUBLIC WORKS
+PY 1983
+VL 114
+IS 4
+BP 53
+EP 54
+PG 2
+WC Engineering, Civil
+SC Engineering
+GA QZ864
+UT WOS:A1983QZ86400018
+DA 2019-03-21
+ER
+
+PT J
+AU MILLNER, RS
+AF MILLNER, RS
+TI PULP AND PAPER-MILL WASTE POLLUTION IN THE SWALE, A TIDAL CHANNEL ON THE
+   EAST COAST OF ENGLAND
+SO HELGOLANDER MEERESUNTERSUCHUNGEN
+LA English
+DT Article
+RP MILLNER, RS (reprint author), MINIST AGR FISHERIES & FOOD,FISHERIES LAB,LOWESTOFT NR33 OHT,SUFFOLK,ENGLAND.
+CR BAGGE P, 1969, MERENTUTKIMUSLAIT JU, V228, P1
+   EVANS F., 1957, ANN AND MAG NAT HIST, V10, P161
+   LEPPAKOSKI E, 1975, Acta Academiae Aboensis Ser B Mathematica et Physica, V35, P1
+   Mcintyre D., 1971, METHODS STUDY MARINE
+   MCLUSKY DS, 1978, PHYSL BEHAVIOUR MARI, P203
+   Muus B. J., 1967, Meddelelser fra Danmarks Fiskeri- og Havundersogelser, V5, P1
+   PARKER RR, 1973, WATER RES, V7, P503, DOI 10.1016/0043-1354(73)90050-X
+   PEARSON T, 1970, Journal of Experimental Marine Biology and Ecology, V5, P1, DOI 10.1016/0022-0981(70)90026-2
+   PEARSON T H, 1971, Journal of Experimental Marine Biology and Ecology, V6, P211, DOI 10.1016/0022-0981(71)90020-7
+   Pearson T. H., 1971, Vie et Milieu, V22, P53
+   PEARSON T H, 1976, Ambio, V5, P77
+   PEARSON TH, 1975, J EXP MAR BIOL ECOL, V20, P1, DOI 10.1016/0022-0981(75)90099-4
+   POOLE NJ, 1977, HELGOLAND WISS MEER, V30, P622, DOI 10.1007/BF02207866
+   Reise K., 1977, BIOL BENTHIC ORGANIS, P513
+   ROSENBER.R, 1973, OIKOS, V24, P244, DOI 10.2307/3543881
+   ROSENBERG R, 1972, OIKOS, V23, P92, DOI 10.2307/3543930
+   ROSENBERG R, 1973, THALASSIA JUGOSL, V7, P341
+   STOCKNER JG, 1976, J FISH RES BOARD CAN, V33, P2433, DOI 10.1139/f76-290
+   WHARFE JR, 1975, ENVIRON POLLUT, V9, P1, DOI 10.1016/0013-9327(75)90052-X
+NR 19
+TC 5
+Z9 5
+U1 0
+U2 0
+PU BIOLOGISCHE ANSTALT HELGOLAND
+PI HAMBURG
+PA NOTKESTRASSE 31, 22607 HAMBURG, GERMANY
+SN 0174-3597
+J9 HELGOLANDER MEERESUN
+JI Helgol. Meeresunters.
+PY 1980
+VL 33
+IS 1-4
+BP 366
+EP 376
+DI 10.1007/BF02414761
+PG 11
+WC Marine & Freshwater Biology; Oceanography
+SC Marine & Freshwater Biology; Oceanography
+GA KS707
+UT WOS:A1980KS70700032
+OA Bronze
+DA 2019-03-21
+ER
+
+EF
